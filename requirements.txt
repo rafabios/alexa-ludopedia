@@ -1,0 +1,7 @@
+requests
+werkzeug==0.16.1
+flask-session
+cryptography<2.2
+flask_ask
+flask
+
